@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gatewayserver/API Gateway Server.iml" filepath="$PROJECT_DIR$/gatewayserver/API Gateway Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configurserver/configurserver.iml" filepath="$PROJECT_DIR$/configurserver/configurserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licensing-service/licensing-service.iml" filepath="$PROJECT_DIR$/licensing-service/licensing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicesLearn.iml" filepath="$PROJECT_DIR$/.idea/microservicesLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-service/organization-service.iml" filepath="$PROJECT_DIR$/organization-service/organization-service.iml" />
+    </modules>
+  </component>
+</project>
